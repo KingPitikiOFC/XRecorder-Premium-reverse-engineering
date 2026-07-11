@@ -14,9 +14,11 @@ Cada usuario es el único responsable del uso que haga de la información y herr
 
 -> matar verification de firma con la herramienta MT Manager.
 
+```
 clave de firma: predeterminado
 esquema: V1+V2+V3
 usar versión mejorada [activa]
+```
 
 -> Dentro de los archivos internos que componen la aplicación de XRecorder.apk eliminar los archivos:
 
@@ -87,9 +89,9 @@ QC0
 
 -> guardar y firmar la ampliación
 
-clave de firma: predeterminado 
+```clave de firma: predeterminado 
 esquema: V3 (Android 9.0+)
-
+```
 -> Finalmente se desinstala la aplicación original de XRecorder (si ya está instalado) y se instala el XRecorder modificado (aceptar los permisos de instalar de todas formas)
 
 
