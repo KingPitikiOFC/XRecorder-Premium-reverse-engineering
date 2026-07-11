@@ -20,7 +20,7 @@ usar versión mejorada [activa]
 
 -> Dentro de los archivos internos que componen la aplicación de XRecorder.apk eliminar los archivos:
 
-DebugProbesKt.bin
+```DebugProbesKt.bin
 androidsupportmultidexversion.txt
 billing.properties
 core-common.properties
@@ -66,7 +66,7 @@ stamp-cert-sha256
 transport-api.properties
 transport-backend-cct.properties
 transport-runtime.properties
-user-messaging-platform.properties.
+user-messaging-platform.properties```
 
 -> y eliminar las carpetas:
 
