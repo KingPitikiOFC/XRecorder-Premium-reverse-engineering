@@ -72,10 +72,12 @@ user-messaging-platform.properties
 
 -> y eliminar las carpetas:
 
+```
 com
 Javax
 okhttp3
 org
+```
 
 -> importar patch1 a classes.dex
 com/inshot/screenrecorder/iab/c$e
