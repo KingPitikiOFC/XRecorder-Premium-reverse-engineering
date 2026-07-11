@@ -66,7 +66,7 @@ stamp-cert-sha256
 transport-api.properties
 transport-backend-cct.properties
 transport-runtime.properties
-user-messaging-platform.properties
+user-messaging-platform.properties```
 
 
 -> y eliminar las carpetas:
