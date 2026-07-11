@@ -67,7 +67,7 @@ transport-api.properties
 transport-backend-cct.properties
 transport-runtime.properties
 user-messaging-platform.properties
-```
+
 
 -> y eliminar las carpetas:
 
