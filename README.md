@@ -82,14 +82,19 @@ org
 ```
 
 -> importar patch1 a classes.dex
+```
 com/inshot/screenrecorder/iab/c$e
+```
 
 -> importar patch2 a classes.dex
+```
 QC0
+```
 
 -> guardar y firmar la ampliación
 
-```clave de firma: predeterminado 
+```
+clave de firma: predeterminado 
 esquema: V3 (Android 9.0+)
 ```
 -> Finalmente se desinstala la aplicación original de XRecorder (si ya está instalado) y se instala el XRecorder modificado (aceptar los permisos de instalar de todas formas)
