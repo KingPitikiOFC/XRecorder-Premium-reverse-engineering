@@ -1,4 +1,4 @@
-##Autor King Pitiki OFC | Hack Purgatory
+## Autor King Pitiki OFC | Hack Purgatory
 ## Licencia y Aviso Legal
 Este proyecto se publica únicamente con fines de investigación, aprendizaje e ingeniería inversa. Su contenido está destinado al estudio del funcionamiento interno de aplicaciones Android, la seguridad informática y el análisis de software.
 
@@ -8,7 +8,7 @@ Cada usuario es el único responsable del uso que haga de la información y herr
 
 © 2026 King Pitiki OFC | Hack Purgatory. Todos los derechos reservados.
 
-##Tutorial
+## Tutorial
 
 -> extraer en formato .apk la aplicación de XRecorder en su última versión actual 2.5.3.2
 
