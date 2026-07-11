@@ -1,4 +1,4 @@
-##Autor King Pitiki OFC | Hack Purgatory##
+##Autor King Pitiki OFC | Hack Purgatory
 ## Licencia y Aviso Legal
 Este proyecto se publica únicamente con fines de investigación, aprendizaje e ingeniería inversa. Su contenido está destinado al estudio del funcionamiento interno de aplicaciones Android, la seguridad informática y el análisis de software.
 
